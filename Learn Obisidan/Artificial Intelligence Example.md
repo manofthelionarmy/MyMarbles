@@ -1,0 +1,3 @@
+---
+aliases: [AI, Artificial Intelligence]
+---

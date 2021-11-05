@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "02cdf32493f768f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "115929831fe9cd46",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ccdd7f5f40eb308",
+    "type": "split",
+    "children": [
+      {
+        "id": "79162076f11717d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d266c418d9fb01bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f77b2b1a90c64615",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c5f5992d6a2f41f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb63c56e971ff5ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2be7f1b59706989",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "115929831fe9cd46",
+  "lastOpenFiles": [
+    "Learn Obisidan/Aliases.md",
+    "Learn Obisidan/Artificial Intelligence Example.md",
+    "My First Note/Hello world.md"
+  ]
+}
